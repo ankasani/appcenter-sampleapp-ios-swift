@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+printenv
+
 echo "Testing if this is running"
 
 
