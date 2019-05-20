@@ -6,6 +6,8 @@
 
 set -ex
 
-echo "Scheme: "$APPCENTER_XCODE_SCHEME
+echo App Scheme : $APPCENTER_XCODE_SCHEME
+
+#echo "Scheme: "$APPCENTER_XCODE_SCHEME
 
 #cp $APPCENTER_SOURCE_DIRECTORY/../output/build/archive/sampleapp-ios-swift.xcarchive/BCSymbolMaps/*bcsymbolmap $APPCENTER_OUTPUT_DIRECTORY
